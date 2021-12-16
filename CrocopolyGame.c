@@ -4,7 +4,7 @@
 
 #define BOARD_SIZE 20
 
-// Tevfik Hacihamdioglu 
+//
 
 int main(void)
 {
