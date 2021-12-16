@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-//Tevfik Hacihamdioglu
+//
 
 void arrayElementNShift(int arrayE[], int arraySize, int shiftCount);
 
