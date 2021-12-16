@@ -1,8 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-// Tevfik Hacihamdioglu
-
+// 
 void frequencyFunc(int arr[3][3]);
 
 int main(void) // In this main function, I created an array and printed it as well as function.
