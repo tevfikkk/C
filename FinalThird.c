@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-// Tevfik Hacihamdioglu
+// 
 
 void Array_Swap(int *array , int n)   // function to swap the array elements
 { 
