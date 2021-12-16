@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-// Tevfik Hacihamdioglu
+// 
 
 // I've tried to make this code a rather funny and extraordinary, hocam
 
