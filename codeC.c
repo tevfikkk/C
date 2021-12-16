@@ -3,7 +3,7 @@
 #include <time.h>
 #include <String.h>
 
-// Tevfik Hacihamdioglu
+// 
 
 char* doubleArraySize(char *ptr,int arraySize);
 
